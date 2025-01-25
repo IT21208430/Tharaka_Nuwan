@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tharaka Nuwan</h1>
-<h3 align="center">React Native enthusiast and Associate Software Engineer passionate about creating seamless mobile and web solutions. I thrive on leveraging emerging technologies to build innovative and impactful products.</h3>
+<h3 align="center">🚀 React Native Enthusiast | 🌐 Mobile & Web Developer | 💻 Associate Software Engineer</h3>
+<h3 align="center">I thrive on creating seamless mobile experiences and dynamic web solutions using cutting-edge technologies like React Native and Node.js.</h3>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=it21208430&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -10,22 +11,21 @@
 <h2 align="center">👨‍💻 About Me</h2>
 
 - 🔹 **Who am I?**  
-  - React Native Enthusiast  
-  - Mobile & Web Developer  
-  - Associate Software Engineer  
-  - Freelancer  
+  - ⚛️ React Native Enthusiast  
+  - 🌐 Mobile & Web Developer  
+  - 💻 Associate Software Engineer  
+  - 🛠️ Freelancer  
 
 - 🔹 **What I Do:**  
-  - Build seamless, user-centric mobile experiences.  
-  - Create dynamic and responsive web solutions.  
-  - Innovate with emerging technologies to solve real-world problems.  
+  - 📱 Build seamless, user-centric mobile experiences with **React Native**.  
+  - 🖥️ Create dynamic, scalable web solutions with **Node.js** and **JavaScript**.  
+  - 🌟 Innovate with emerging technologies to solve real-world problems.  
 
 - 🔹 **Why Connect?**  
-  - Collaborate on cutting-edge projects.  
-  - Share ideas and insights to shape the tech of tomorrow.  
-  - Turn creative visions into impactful solutions.  
+  - 🤝 Collaborate on cutting-edge projects.  
+  - 💡 Share ideas and insights to shape the tech of tomorrow.  
+  - 🎯 Turn creative visions into impactful solutions.  
 
----
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
