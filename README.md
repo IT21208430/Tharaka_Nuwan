@@ -1,13 +1,27 @@
 <h1 align="center">Hi 👋, I'm Tharaka Nuwan</h1>
-<h3 align="center">A Full Stack Developer from Sri Lanka</h3>
+<h3 align="center"React Native enthusiast and Associate Software Engineer with expertise in building seamless mobile and web solutions. Passionate about leveraging emerging technologies to create innovative and impactful products.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=it21208430&label=Profile%20views&color=0e75b6&style=flat" alt="it21208430" /> </p>
 
-- 🌱 I’m currently learning **cSharp and ASP.net**
+Hello, World!
 
-- 💬 Ask me about **PHP,react.js, bootstrap....**
+🔹 Who am I?
 
-- 📫 How to reach me **tnathuluwage@gmail.com**
+React Native Enthusiast
+Mobile & Web Developer
+Associate Software Engineer
+Freelancer
+🔹 What I Do:
+
+Build seamless, user-centric mobile experiences.
+Create dynamic and responsive web solutions.
+Innovate with emerging technologies to solve real-world problems.
+🔹 Why Connect?
+
+Collaborate on cutting-edge projects.
+Share ideas and insights to shape the tech of tomorrow.
+Turn creative visions into impactful solutions.
+Let’s connect and make something amazing together!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
