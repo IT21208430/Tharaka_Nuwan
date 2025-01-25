@@ -3,7 +3,7 @@
 <h3 align="center">I thrive on creating seamless mobile experiences and dynamic web solutions using cutting-edge technologies like React Native and Node.js.</h3>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=it21208430&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ThareDev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
